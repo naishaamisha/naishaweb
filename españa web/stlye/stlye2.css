@@ -1,5 +1,24 @@
-body {background: brown;
-    color: azure;
-
-
+h1,p ¨{
+    /*   display: inline; */
+  }
+  strong{
+      front-wight: 
+      font-weight: normal;
+  }
+  /*
+  es una mala practica para usar los id en scc */
+#p001 {
+color: darkorchid;
+font-family: cursive
+        parrafo de color rosa con letra cursiva 
+.destacado {
+    color: #000200;
 }
+h1 {
+    text-align: center
+}
+.centrado {
+    text-align: center
+}
+      }
+  }
